@@ -10,4 +10,5 @@
 - ファビコンの追加
 
 ## 画面イメージ
-![サイトイメージ](./images/siteImage.png, "siteImages")
+
+![サイトイメージ](./images/siteImage.png "siteImages")
