@@ -1,0 +1,25 @@
+body {
+    padding: 40px;
+}
+
+hr {
+    height: 3px;
+    background-color: #333;
+    width: 50%;
+    margin-left: 0;
+}
+
+.section{
+    margin-top: 30px;
+}
+
+.subtitle {
+    color: forestgreen;
+    font-weight: bold;
+}
+
+.school-company-name{
+    color: royalblue;
+    margin-top: 10px;
+    font-weight: bold;
+}
